@@ -151,5 +151,7 @@ for i in tecnico['Setor Técnico (função)'].index:
 
 
 
+c = 10 
+
 
 
